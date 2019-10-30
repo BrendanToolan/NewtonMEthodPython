@@ -12,5 +12,10 @@ def sqrt(x):
     #return z
     return z
 
-sqrt(8.0)
-
+#calculate sq root of 8
+z = sqrt(64.0)
+#print z 
+print(z)
+#print(sqrt(8.0))
+#print sq of the sq root
+print(z*z)
